@@ -1,6 +1,6 @@
 'use client'
 
-import { KartuProfil } from "./components/KartuProfil";
+import { KartuProfil } from "@/components/KartuProfil";
 
 export default function Home() {
   return (
