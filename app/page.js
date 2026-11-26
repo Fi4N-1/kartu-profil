@@ -9,7 +9,7 @@ export default function Home() {
       <p className="text-xs">Latihan React hari pertama.</p>
 
       {/* Kartu Profil */}
-      <div className="flex flex-row">
+      <div className="flex flex-row gap-1.5">
         <KartuProfil nama="Agha" kelas="XII RPL 1" hobi="gooning" />
         <KartuProfil nama="Rakha" kelas="XII RPL 1" hobi="Gaming" />
         <KartuProfil nama="Zidan" kelas="XII RPL 1" hobi="Pacuan Waifu" />
