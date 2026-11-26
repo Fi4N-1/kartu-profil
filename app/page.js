@@ -9,7 +9,7 @@ export default function Home() {
       <p>Latihan React hari pertama.</p>
 
       {/* Kartu Profil */}
-      <KartuProfil nama="Agha" kelas="XII RPL 1" hobi="Porno" />
+      <KartuProfil nama="Agha" kelas="XII RPL 1" hobi="gooning" />
       <KartuProfil nama="Rakha" kelas="XII RPL 1" hobi="Gaming" />
       <KartuProfil nama="zidan" kelas="XII RPL 1" hobi="Pacuan Waifu" />
 
